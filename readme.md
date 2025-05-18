@@ -20,8 +20,7 @@ This project implements an image segmentation pipeline using Detectron2 to detec
 │       ├── config.yaml
 │       └── model_final.pth
 ├── README.md                      
-└── MobileScratchSegmentation.ipynb     
-└── requirements.txt                
+└── MobileScratchSegmentation.ipynb                 
 └── sample_image.jpg
 └── street_small.jpg                
 ```
